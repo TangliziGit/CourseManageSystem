@@ -1,5 +1,5 @@
 # CourseManageSystem
-This is the OOP task, which implement some function on managing courses and users, based on java.  
+This is the final OOP task and my first java project, which implement some function on managing courses and users, based on java.  
 
 # Functions
 simple user login and permission management.  
@@ -8,6 +8,7 @@ user managament: add, update.
 select course with maintainance of user information.  
   
 # Directory
+```
 .  
 ├── controller  
 │   └── CourseManageSystem.java  
@@ -33,6 +34,7 @@ select course with maintainance of user information.
     └── UserService.java  
   
 5 directories, 17 files  
+```
   
 # Architecture
 - /controller 控制层  
